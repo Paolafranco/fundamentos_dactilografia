@@ -5,10 +5,12 @@ La importncia de la mecanografía en el mundo moderno permite elaborar la corres
 y documentos comerciales con mayor exactitud y en un tiempo menor.
 
 **TÉCNICAS BÁSICAS PARA MECANOGRAFIAR ORGANIZACIÓN DEL ESCRITORIO**
-     * Mantenga la mesa despejada de artículos innecesarios.
-     * Coloque el libro a la derecha de la máquina.
-     * Coloque el papel a la izquierda de la máquina.
-     * Coloque otros artículos que necesite en sitios accesibles y manténgalos siempre en el mismo lugar.
+* Mantenga la mesa despejada de artículos innecesarios.
+* Coloque el libro a la derecha de la máquina.
+* Coloque el papel a la izquierda de la máquina.
+* Coloque otros artículos que necesite en sitios accesibles y manténgalos siempre en el mismo lugar.
+     
+     
      
 **POSICIÓN CORRECTA DEL CUERPO**
       * Siéntese cómodamente en la silla, de manera que los músculos queden laxos. 
