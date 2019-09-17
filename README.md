@@ -4,13 +4,13 @@ con la finalidad de escribir de una manera más rápida y correcta.
 La importncia de la mecanografía en el mundo moderno permite elaborar la correspondencia 
 y documentos comerciales con mayor exactitud y en un tiempo menor.
 
-###**TÉCNICAS BÁSICAS PARA MECANOGRAFIAR ORGANIZACIÓN DEL ESCRITORIO**
+**TÉCNICAS BÁSICAS PARA MECANOGRAFIAR ORGANIZACIÓN DEL ESCRITORIO**
      *Mantenga la mesa despejada de artículos innecesarios.
      *Coloque el libro a la derecha de la máquina.
      *Coloque el papel a la izquierda de la máquina.
      *Coloque otros artículos que necesite en sitios accesibles y manténgalos siempre en el mismo lugar.
      
-###**POSICIÓN CORRECTA DEL CUERPO**
+**POSICIÓN CORRECTA DEL CUERPO**
       *Siéntese cómodamente en la silla, de manera que los músculos queden laxos. 
       Inclinar ligeramente la cabeza y los hombros hacia adelante y acerque el tronco al respaldo inferior de la silla.
       *Descanse los pies firmemente en el piso y adelante un poco el derecho o izquierdo para mantener mejor el equilibrio.
@@ -19,7 +19,7 @@ y documentos comerciales con mayor exactitud y en un tiempo menor.
       manos quede paralelo a la inclinación del teclado.
       *Mantenga los codos en posición natural cerca del cuerpo y los dedos curvos sobre las teclas guías, son hacer presión sobre ellas.
       
-###**CONSEJOS PARA ESCRIBIR MÁS RÁPIDO**
+**CONSEJOS PARA ESCRIBIR MÁS RÁPIDO**
       *Son los dedos los que se desplazan para pulsar las teclas, nunca las manos.
       *No mires el teclado y no guíes los dedos con la vista
       *No te impacientes, no trates de adelantarte nunca, ten calma y escribe a un ritmo cómodo, para dominar correctamente el teclado.
