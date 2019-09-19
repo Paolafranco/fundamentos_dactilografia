@@ -1,4 +1,4 @@
-# fundamentos_dactilografia
+# Fundamentos_dactilografia
 Es facilidad de escribir a máquina con todos los dedos y sin necesidad de mirar las teclas, 
 con la finalidad de escribir de una manera más rápida y correcta.
 La importncia de la mecanografía en el mundo moderno permite elaborar la correspondencia 
@@ -30,3 +30,13 @@ escribir de forma correcta sin mirar el teclado, sin cometer errores.
 * Evita vicios mecanográficos, los adquiridos desde el principio son los más difíciles de corregir después.
 * Es importantísimo ajustar la velocidad al ritmo, no escribir unas teclas con rapidez y otras con lentitud, la pulsación debe 
 ser siempre constante.
+
+## Posición de los dedos en el teclado
+Las ocho teclas donde resposan nuestros dedos se llama la fila guía y estos son: **A, S, D, F, J, K, L, Ñ**.
+![Fila guía](https://mayoresconectados.com.ar/wp-content/uploads/2017/12/usar-el-teclado-e1515618373218.jpg)
+
+Las teclas **F** y **J** tienen una marca, esto indica donde se deben posicionar los dedos índices, desde aquí existe una línea imaginaria que controla la cantidad de teclas para la mano izquierda y para la mano derecha.
+![Sectores del teclado](https://http2.mlstatic.com/curso-fundamentos-de-dactilografia--D_NQ_NP_748848-MLA31594884360_072019-F.jpg)
+
+Cada tecla está asignada a un dedo en concreto, como lo miestra la siguiente imagen:
+![Posicion de los dedos](http://3.bp.blogspot.com/-SVH_4HMg_x4/TgCH1JgUocI/AAAAAAAAAFc/iFYyaJgvbh8/s1600/Teclado.jpg)
